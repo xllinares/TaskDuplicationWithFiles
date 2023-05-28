@@ -42,6 +42,6 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://autoritas.net';
+        return 'https://github.com/xllinares/TaskDuplicationWithFiles';
     }
 }
